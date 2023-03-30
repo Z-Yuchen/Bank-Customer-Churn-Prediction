@@ -6,4 +6,5 @@ In this project, I use supervised learning models to identify customers who are 
 irrelevant, and duplicated data, etc.), feature selection(correlation matrix), and feature engineering (one-hot encoding for
 categorical features and standardization for numerical features).\
 ● Trained multiple supervised ML models (Logistic Regression, KNN, Random Forest, and K-Nearest Neighbors )\
-● Evaluated the models using confusion matrix, accuracy, ROC_AUC, and F1 score of classification via k-fold
+● Evaluated the models using confusion matrix, accuracy, ROC_AUC, and F1 score of classification via k-fold\
+● Increased the customer retention rate by offering promotions to the customers who were predicted to churn.
